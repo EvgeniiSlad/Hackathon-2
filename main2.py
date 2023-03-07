@@ -11,7 +11,7 @@ DATABASE = 'hackathon2'
 
 connection = psycopg2.connect(host=HOSTNAME, user=USERNAME, password=PASSWORD, dbname=DATABASE)
 cursor = connection.cursor() 
-database_name = input("Plese write name of database like 'btcbusd'") 
+database_name = input("Plese write name of database like 'btcbusd':") 
 query = f"SELECT time FROM {database_name}"
 cursor.execute(query)
 time = cursor.fetchall()
