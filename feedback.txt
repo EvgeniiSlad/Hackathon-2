@@ -1,0 +1,8 @@
+- The code is very clear and doesnt repeat itself, Great job!
+- Loved the idea, i feel like it really has a good functionality and use 
+for people who buy crypto.
+- It is also great that the user can choose from basically all of the 
+coins instead of just havong a fixed one.
+- the run forever is also very functional as the user doesnt have to run 
+the code all the time and the grpah changes automatically.
+- overall very good project, amazing job!
